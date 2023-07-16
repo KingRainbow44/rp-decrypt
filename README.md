@@ -1,5 +1,5 @@
 # Resource Pack Decrypt
-A Rust-based Minecraft: Bedrock Edition resource pack decrypter.
+A Rust-based Minecraft: Bedrock Edition resource pack decryptor.
 
 ## Notice
 **99% of code in this project is taken from [valaphee/mcrputil](https://github.com/valaphee/mcrputil/blob/main/src/main.rs).**\
